@@ -28,20 +28,6 @@
 
 ---
 
-## 🧑‍💼 How to Present to Recruiters
-- **Be Honest:** "This is a work-in-progress, but it demonstrates my skills in SwiftUI, CoreML, and modern iOS architecture."
-- **Highlight:** "I designed the architecture for privacy, on-device AI, and Apple's latest UI paradigms."
-- **Show Code:** Walk through the structure, explain your design decisions, and point out where you'd add real data/models.
-
-### To Make It Stand Out Even More
-- Add a README GIF or screenshots of the UI (even if basic).
-- Implement one end-to-end flow (e.g., mood logging with CoreData and a widget).
-- Train a simple CoreML model (even with synthetic data).
-- Polish one widget or Live Activity to be fully interactive.
-- Add a "Future Work" section in the README to show your vision.
-
----
-
 ## 🛠️ Next Steps
 - Replace the CoreML model placeholder with your trained `.mlmodel`.
 - Expand HealthKit and ScreenTime data retrieval as APIs allow.
