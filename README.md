@@ -43,11 +43,6 @@
 
 ---
 
-## 📸 Screenshots
-*Add screenshots or a GIF here to make your project stand out!*
-
----
-
 ## 📜 Privacy
 **Your data is processed securely on your device. No sync. No cloud. No tracking.**
 
